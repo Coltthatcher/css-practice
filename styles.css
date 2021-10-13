@@ -1,0 +1,22 @@
+.header-one {
+    color: #f00;
+    text-align: center;
+    font-family: san serif;
+    text-indent: 20%;
+}
+.header-two {
+    color: grey;
+    text-align: center;
+    font-family: a'Times New Roman', Times, serif;
+    width: 4cm;
+}
+.paragraph {
+    outline-style: bold;
+    text-align: center;
+}
+p {
+    text-align: center;
+    font-family: italic;
+    color: tan;
+    font-style: cursive;
+}
